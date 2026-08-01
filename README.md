@@ -73,7 +73,7 @@ stock_forecasting/
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/Yanamadala-Gopi-Naga-Sai-Charan-127/Stock-Market-Forecasting.git
+https://github.com/Yanamadala-Gopi-Naga-Sai-Charan-127/Stock-Market-Forecasting.git
 ```
 
 ### Navigate to the Project
